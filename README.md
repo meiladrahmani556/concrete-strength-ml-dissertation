@@ -94,7 +94,7 @@ Notebooks are numbered to reflect the logical execution order.
 | Notebook | Description | Status |
 |--------|------------|--------|
 | 01 | Project plan and dataset overview | Completed |
-| 02 | Dataset loading and inspection | Pending |
+| 02 | Dataset loading and inspection | Completed |
 | 03 | Data cleaning and preprocessing | Pending |
 | 04 | Exploratory data analysis (EDA) | Pending |
 | 05 | Baseline regression models | Pending |
