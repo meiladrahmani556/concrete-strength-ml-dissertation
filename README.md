@@ -63,17 +63,26 @@ relevant to real-world engineering applications.
 
 ## 4. Selected Dataset
 
-The **Concrete Compressive Strength Dataset** has been selected for this project due to:
-- Its strong engineering relevance
-- Fully numerical structure
-- Moderate size and clean feature set
-- Clear physical interpretation of input variables
+The dataset selected for this dissertation is the **Concrete Compressive Strength Dataset**, which has a strong civil and materials engineering context.
 
-### Dataset Details
-- Source: UCI Machine Learning Repository  
-- Data type: Numerical (tabular)  
+- Domain: Civil / Structural Engineering  
 - Task: Regression  
-- Target variable: Concrete compressive strength (MPa)
+- Objective: Predict concrete compressive strength (MPa) based on material composition and curing age  
+- Number of samples: 1030  
+- Number of features: 8 input variables + 1 target variable  
+
+### Input Features
+- Cement (kg/m³)
+- Blast Furnace Slag (kg/m³)
+- Fly Ash (kg/m³)
+- Water (kg/m³)
+- Superplasticizer (kg/m³)
+- Coarse Aggregate (kg/m³)
+- Fine Aggregate (kg/m³)
+- Age (days)
+
+### Target Variable
+- Concrete Compressive Strength (MPa)
 
 ---
 
@@ -81,11 +90,9 @@ The **Concrete Compressive Strength Dataset** has been selected for this project
 
 The repository is organised as follows:
 
-- `notebooks/` – Jupyter notebooks implementing each stage of the project  
-- `data/` – Raw and processed datasets (excluded from version control where required)  
+- `notebooks/` – Jupyter notebooks for each project stage  
+- `data/` – Concrete compressive strength dataset (CSV format)  
 - `README.md` – Project documentation  
-
-Notebooks are numbered to reflect the logical execution order.
 
 ---
 
