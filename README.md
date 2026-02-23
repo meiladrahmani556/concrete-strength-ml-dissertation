@@ -141,8 +141,11 @@ All notebooks are designed to be executable in **Google Colab**.
 
 ## 8. Project Status
 
-- New repository initialised
-- Project plan defined
-- Engineering-focused dataset shortlist prepared
-- Final dataset selected
-- Ready to proceed with dataset loading and analysis
+- Project scope defined and approved  
+- Engineering dataset shortlisted and selected  
+- Notebooks 01–03 completed:
+  - **Notebook 01:** Project setup and dataset overview  
+  - **Notebook 02:** Data loading and initial inspection  
+  - **Notebook 03:** Data cleaning and preprocessing  
+- Cleaned dataset generated and saved  
+- Ready to proceed to exploratory data analysis (Notebook 04)
