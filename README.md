@@ -98,9 +98,9 @@ The repository is organised as follows:
 
 ## 6. Project Workflow and Notebooks/Project Structure 
 **Notebook 01 – Problem Definition**
-Defines the engineering problem of predicting concrete compressive strength
-Establishes objectives, scope, and machine learning relevance
-Justifies dataset choice and regression approach
+- Defines the engineering problem of predicting concrete compressive strength
+- Establishes objectives, scope, and machine learning relevance
+- Justifies dataset choice and regression approach
 
 **Notebook 02 – Data Acquisition**  
 Sources the concrete compressive strength dataset
