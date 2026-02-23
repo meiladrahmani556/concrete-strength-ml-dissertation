@@ -96,7 +96,23 @@ The repository is organised as follows:
 
 ---
 
-## 6. Project Workflow and Notebooks
+## 6. Project Workflow and Notebooks/Project Structure 
+
+### Notebooks
+
+- **Notebook 01 – Project Overview & Dataset Selection** ✅  
+  Defines the project objectives, machine learning problem, and justifies the selection of the Concrete Compressive Strength dataset.
+
+- **Notebook 02 – Data Loading & Initial Exploration** ✅  
+  Loads the raw dataset, inspects structure, feature descriptions, and performs initial sanity checks.
+
+- **Notebook 03 – Data Cleaning & Preprocessing** ✅  
+  Cleans and prepares the dataset for modelling by:
+  - Checking for missing values and duplicates  
+  - Validating data types  
+  - Renaming columns for consistency  
+  - Performing basic statistical validation  
+  - Producing a cleaned, ML-ready dataset
 
 | Notebook | Description | Status |
 |--------|------------|--------|
