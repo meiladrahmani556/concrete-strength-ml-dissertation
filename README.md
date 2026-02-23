@@ -119,7 +119,7 @@ The repository is organised as follows:
 | 01 | Project plan and dataset overview | Completed |
 | 02 | Dataset loading and inspection | Completed |
 | 03 | Data cleaning and preprocessing | Completed |
-| 04 | Exploratory data analysis (EDA) | Pending |
+| 04 | Exploratory data analysis (EDA) | Completed |
 | 05 | Baseline regression models | Pending |
 | 06 | Advanced models and comparison | Pending |
 | 07 | Results discussion and conclusions | Pending |
