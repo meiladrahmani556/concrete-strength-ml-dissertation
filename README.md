@@ -103,21 +103,21 @@ The repository is organised as follows:
 - Justifies dataset choice and regression approach
 
 **Notebook 02 – Data Acquisition**  
-Sources the concrete compressive strength dataset
-Explains dataset features and engineering meaning
-Loads and validates raw data for further processing
+- Sources the concrete compressive strength dataset
+- Explains dataset features and engineering meaning
+- Loads and validates raw data for further processing
 
 **Notebook 03 – Data Cleaning & Preprocessing**  
-Handles missing values and duplicates
-Renames columns for consistency and clarity
-Performs basic statistical validation
-Outputs a cleaned dataset for analysis and modelling
+- Handles missing values and duplicates
+- Renames columns for consistency and clarity
+- Performs basic statistical validation
+- Outputs a cleaned dataset for analysis and modelling
 
 **Notebook 04 – Exploratory Data Analysis (EDA)**  
-Analyses feature distributions and ranges
-Investigates relationships between material components
-Identifies correlations with compressive strength
-Supports informed feature selection and model choice
+- Analyses feature distributions and ranges
+- Investigates relationships between material components
+- Identifies correlations with compressive strength
+- Supports informed feature selection and model choice
 
 | Notebook | Description | Status |
 |--------|------------|--------|
