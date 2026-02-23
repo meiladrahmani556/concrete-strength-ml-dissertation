@@ -97,21 +97,27 @@ The repository is organised as follows:
 ---
 
 ## 6. Project Workflow and Notebooks/Project Structure 
+**Notebook 01 – Problem Definition**
+Defines the engineering problem of predicting concrete compressive strength
+Establishes objectives, scope, and machine learning relevance
+Justifies dataset choice and regression approach
 
-concrete-strength-ml-dissertation/
-│
-├── data/
-│   ├── concrete_data.csv              # Original dataset
-│   └── concrete_data_cleaned.csv      # Cleaned dataset after preprocessing
-│
-├── notebooks/
-│   ├── 01_problem_definition.ipynb
-│   ├── 02_data_acquisition.ipynb
-│   ├── 03_data_cleaning_preprocessing.ipynb
-│   └── 04_exploratory_data_analysis.ipynb
-│
-├── README.md
-└── requirements.txt
+**Notebook 02 – Data Acquisition**  
+Sources the concrete compressive strength dataset
+Explains dataset features and engineering meaning
+Loads and validates raw data for further processing
+
+**Notebook 03 – Data Cleaning & Preprocessing**  
+Handles missing values and duplicates
+Renames columns for consistency and clarity
+Performs basic statistical validation
+Outputs a cleaned dataset for analysis and modelling
+
+**Notebook 04 – Exploratory Data Analysis (EDA)**  
+Analyses feature distributions and ranges
+Investigates relationships between material components
+Identifies correlations with compressive strength
+Supports informed feature selection and model choice
 
 | Notebook | Description | Status |
 |--------|------------|--------|
