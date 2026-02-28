@@ -1,4 +1,4 @@
-# Dissertation – Engineering Machine Learning
+# Big Data – Engineering Machine Learning
 
 ## 1. Project Overview
 
